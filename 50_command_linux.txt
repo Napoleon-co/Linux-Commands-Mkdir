@@ -1,0 +1,72 @@
+📁 File and Directory Management
+
+    pwd — Print working directory path.
+    ls — List directory contents.
+    cd — Change the current directory.
+    mkdir — Create a new directory.
+    rmdir — Remove an empty directory.
+    touch — Create an empty file.
+    cp — Copy files or directories.
+    mv — Move or rename files.
+    rm — Delete files or directories.
+    ln — Create symbolic or hard links. 
+    centron +1
+
+📄 Text Processing and Viewing
+
+    cat — Display file contents entirely.
+    less — View file contents interactively.
+    head — Output the first few lines.
+    tail — Output the last few lines.
+    grep — Search for specific text patterns.
+    awk — Scan and process text patterns.
+    sed — Stream editor to modify text.
+    sort — Sort lines of text files.
+    uniq — Omit or report repeated lines.
+    wc — Count lines, words, and characters.
+    diff — Compare two files line-by-line.
+    nano — Open a simple text editor. 
+    DEV Community +2
+
+⚙️ System Information and Management
+
+    uname — Print system hardware and OS.
+    hostname — View or set system host name.
+    uptime — Show how long system ran.
+    whoami — Display current logged-in user.
+    id — Print real and effective IDs.
+    date — Display or set system date.
+    cal — Display a command-line calendar.
+    clear — Clear the terminal screen window.
+    history — See previously executed terminal commands.
+    man — Open the command manual page. 
+    GitHub +4
+
+📊 Process and Memory Monitoring
+
+    ps — Snapshot current running processes.
+    top — Dynamic real-time process viewer.
+    htop — Interactive, enhanced process monitor.
+    kill — Terminate process using an ID.
+    killall — Kill processes by their name.
+    free — Display free and used memory.
+    df — Show disk space filesystem usage.
+    du — Estimate file space usage sizes. 
+    DigitalOcean
+
+🔐 Users and Permissions
+
+    sudo — Execute command as superuser root.
+    chmod — Change file directory permissions.
+    chown — Change file owner and group.
+    passwd — Change a user's password.
+    useradd — Create a new user account.
+    userdel — Delete a user account. 
+    LinuxCommunity.io +1
+
+🌐 Networking and File Transfer
+
+    ping — Test host network connectivity status.
+    ip a — Show network interfaces and IPs.
+    curl — Transfer data from or to servers.
+    ssh — Secure shell remote connection protocol. 
