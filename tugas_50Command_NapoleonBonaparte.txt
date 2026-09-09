@@ -1,0 +1,30 @@
+ls
+cd desktop
+cd desktop/
+ls
+cd 
+cd Documents
+cd Desktop
+cd -
+cd --
+ls
+clear
+ls
+cd Documents
+ls
+MKdir SKU
+mkdir SKU
+ls
+CD SKU/
+cd SKU/
+ls
+nano 50_command.txt
+LS
+ls
+nano 50_command_linux.txt
+ls
+nano 50_command_linux.txt 
+cat 50_command_linux.txt 
+nano  50_command_linux.txt 
+cat 50_command_linux.txt 
+history -w tugas_50Command_NapoleonBonaparte.txt
